@@ -27,7 +27,7 @@ We expect the project to take anywhere between `30` to `45` minutes.
     - [ ] Total duration (seconds) of all calls
     - [ ] Average duration (seconds) of all calls in sec
     - [ ] Total count of calls in EACH hour between 8am-5pm on 2021-02-22
-    - [ ] Total duratio (seconds)n of calls in EACH hour between 8am-5pm on 2021-02-22
+    - [ ] Total duration (seconds) of calls in EACH hour between 8am-5pm on 2021-02-22
     - [ ] Average duration (seconds) of calls in EACH hour between 8am-5pm on 2021-02-22
   - [ ] The endpoint should return a valid "application/json" response in the following format:
     ```json
