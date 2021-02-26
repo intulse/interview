@@ -8,7 +8,7 @@ You are encouraged to:
 3. Discuss technical choices
 
 ## Estimated Time
-We expect the project to take anywhere between `30` to `45` minutes.
+We expect the project to take anywhere between `30` to `60` minutes.
 
 ## Tools
 - Visual Studio 2019+
