@@ -57,4 +57,5 @@ We expect the project to take anywhere between `30` to `60` minutes.
 ## Bonus
 
 - [ ] Implement proper use of `async`/`await` in your project
-- [ ] Implement a Controller -> Service seperation of concerns pattern 
+- [ ] Implement a Controller -> Service seperation of concerns pattern
+- [ ] Use dependency injection to inject the service into the controller
