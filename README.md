@@ -25,7 +25,7 @@ We expect the project to take anywhere between `30` to `60` minutes.
   - [ ] Analyze the json returned from the data source and calculate the following:
     - [ ] Total call count
     - [ ] Total duration (seconds) of all calls
-    - [ ] Average duration (seconds) of all calls in sec
+    - [ ] Average duration (seconds) of all calls
     - [ ] Total count of calls in EACH hour between 8am-5pm on 2021-02-22
     - [ ] Total duration (seconds) of calls in EACH hour between 8am-5pm on 2021-02-22
     - [ ] Average duration (seconds) of calls in EACH hour between 8am-5pm on 2021-02-22
