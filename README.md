@@ -15,7 +15,7 @@ We expect the project to take anywhere between `30` to `60` minutes.
 - Postman (recommended)
 
 ## Required Technology
-- [ASP.NET Core (C#)](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
+- [ASP.NET Core (C#)](https://docs.microsoft.com/en-us/aspnet/core/)
 
 ## Objectives
 
