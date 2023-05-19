@@ -1,4 +1,4 @@
-# Intulse Technical Interview
+# Intulse Technical Interview (Part 1)
 
 The purpose of this co-working project is to see how you work in a .NET Core (C#) environment and familiarize us with your personal development style.  This is a free-form project and there is not a specific expected solution. 
 
