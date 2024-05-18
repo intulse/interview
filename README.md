@@ -11,7 +11,7 @@ You are encouraged to:
 We expect the project to take anywhere between `30` to `60` minutes.
 
 ## Tools
-- Visual Studio 2019+
+- Visual Studio 2022+
 - Postman (recommended)
 
 ## Required Technology
@@ -19,7 +19,7 @@ We expect the project to take anywhere between `30` to `60` minutes.
 
 ## Objectives
 
-- [ ] Create a new ASP.NET Core project in a new Solution using Visual Studio
+- [ ] Create a new ASP.NET Core Web API project in a new Solution using Visual Studio
 - [ ] Create an API Controller with one endpoint which responds to a GET request to the route `/demo/call-summary`
   - [ ] The endpoint needs to retreive data from the following external data source (GET `https://dashboard.intulse.com/webservices/interview-test-data`)
   - [ ] Analyze the json returned from the data source and calculate the following:
