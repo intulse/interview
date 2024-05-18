@@ -76,10 +76,11 @@ We expect the project to take anywhere between `30` to `60` minutes.
 
 ## Tools
 - Visual Studio Code
-- NPM ("Nodejs package manager" is a part of [NodeJS](https://nodejs.org))
 
 ## Required Technology
 - [Angular 16+](https://angular.dev)
+- NPM ("Nodejs package manager" is a part of [NodeJS](https://nodejs.org))
+- Angular CLI ("ng" is installed via NPM)
 
 ## Objectives
 
