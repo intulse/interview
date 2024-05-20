@@ -87,5 +87,5 @@ We expect the project to take anywhere between `30` to `60` minutes.
 - [ ] Create a new Angular project using NPM, Angular CLI, and Visual Studio Code
 - [ ] Create a single page application that allows the user to input a date and click a button to get a call summary for that day.
 - [ ] When the button is clicked display a loading indicator while making an API call to the endpoint you developed in part 1 of this technical interview
-- [ ] When the data is loaded hide the loading indicator and display that data in a pleasing manor
+- [ ] When the data is loaded hide the loading indicator and display that data in a pleasing manner
 - [ ] Use a `for of` structural directive to display each of the "hours" data points
