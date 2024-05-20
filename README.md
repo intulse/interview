@@ -1,6 +1,6 @@
 # Intulse Technical Interview (Part 1)
 
-The purpose of this co-working project is to see how you work in a .NET Core (C#) environment and familiarize us with your personal development style.  This is a free-form project and there is not a specific expected solution. 
+The purpose of this co-working project is to see how you work in a .NET Core (C#) environment and familiarize us with your personal development style.  This is a free-form project and there is no specific expected solution. 
 
 You are encouraged to:
 1. Ask questions
@@ -64,7 +64,7 @@ We expect the project to take anywhere between `30` to `60` minutes.
 
 # Intulse Technical Interview (Part 2)
 
-The purpose of this co-working project is to see how you work in an Angular environment and familiarize us with your personal development style.  This is a free-form project and there is not a specific expected solution. 
+The purpose of this co-working project is to see how you work in an Angular environment and familiarize us with your personal development style.  This is a free-form project and there is no specific expected solution. 
 
 You are encouraged to:
 1. Ask questions
