@@ -1348,5 +1348,671 @@
     "ConnectedExtensions": [
       
     ]
+  },
+  {
+    "ID": "cel-1614022376.118",
+    "CallDate": "2021-02-23T14:32:56",
+    "CallDateUTC": "2021-02-23T19:32:56Z",
+    "CallerID": "LEBANON      PA",
+    "Source": "7179541565",
+    "Destination": "7178690001",
+    "Duration": {
+      "Ticks": 100000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 0,
+      "Seconds": 10,
+      "TotalDays": 0.00011574074074074073,
+      "TotalHours": 0.0027777777777777775,
+      "TotalMilliseconds": 10000,
+      "TotalMinutes": 0.16666666666666666,
+      "TotalSeconds": 10
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614023583.119",
+    "CallDate": "2021-02-23T14:53:03",
+    "CallDateUTC": "2021-02-23T19:53:03Z",
+    "CallerID": "HINES WEALTH",
+    "Source": "8434807986",
+    "Destination": "7178395000",
+    "Duration": {
+      "Ticks": 710000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 1,
+      "Seconds": 11,
+      "TotalDays": 0.00082175925925925927,
+      "TotalHours": 0.019722222222222221,
+      "TotalMilliseconds": 71000,
+      "TotalMinutes": 1.1833333333333333,
+      "TotalSeconds": 71
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614023834.123",
+    "CallDate": "2021-02-23T14:57:14",
+    "CallDateUTC": "2021-02-23T19:57:14Z",
+    "CallerID": "ALLIED PROPERTY",
+    "Source": "3024798314",
+    "Destination": "7178395000",
+    "Duration": {
+      "Ticks": 210000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 0,
+      "Seconds": 21,
+      "TotalDays": 0.00024305555555555555,
+      "TotalHours": 0.0058333333333333327,
+      "TotalMilliseconds": 21000,
+      "TotalMinutes": 0.35000000000000003,
+      "TotalSeconds": 21
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614023957.124",
+    "CallDate": "2021-02-23T14:59:17",
+    "CallDateUTC": "2021-02-23T19:59:17Z",
+    "CallerID": "YOUNGS INS SVC",
+    "Source": "6102757923",
+    "Destination": "7178395000",
+    "Duration": {
+      "Ticks": 170000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 0,
+      "Seconds": 17,
+      "TotalDays": 0.00019675925925925926,
+      "TotalHours": 0.0047222222222222223,
+      "TotalMilliseconds": 17000,
+      "TotalMinutes": 0.28333333333333333,
+      "TotalSeconds": 17
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614024637.125",
+    "CallDate": "2021-02-23T15:10:37",
+    "CallDateUTC": "2021-02-23T20:10:37Z",
+    "CallerID": "Richard Barclay",
+    "Source": "927",
+    "Destination": "2107890770",
+    "Duration": {
+      "Ticks": 640000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 1,
+      "Seconds": 4,
+      "TotalDays": 0.0007407407407407407,
+      "TotalHours": 0.017777777777777778,
+      "TotalMilliseconds": 64000,
+      "TotalMinutes": 1.0666666666666667,
+      "TotalSeconds": 64
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614024788.127",
+    "CallDate": "2021-02-23T15:13:08",
+    "CallDateUTC": "2021-02-23T20:13:08Z",
+    "CallerID": "Jason Sutter",
+    "Source": "929",
+    "Destination": "2234447065",
+    "Duration": {
+      "Ticks": 12460000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 20,
+      "Seconds": 46,
+      "TotalDays": 0.014421296296296295,
+      "TotalHours": 0.34611111111111109,
+      "TotalMilliseconds": 1246000,
+      "TotalMinutes": 20.766666666666666,
+      "TotalSeconds": 1246
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614024897.129",
+    "CallDate": "2021-02-23T15:14:57",
+    "CallDateUTC": "2021-02-23T20:14:57Z",
+    "CallerID": "MONTGOMERY",
+    "Source": "7075768700",
+    "Destination": "7178395000",
+    "Duration": {
+      "Ticks": 2120000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 3,
+      "Seconds": 32,
+      "TotalDays": 0.0024537037037037036,
+      "TotalHours": 0.058888888888888886,
+      "TotalMilliseconds": 212000,
+      "TotalMinutes": 3.5333333333333332,
+      "TotalSeconds": 212
+    },
+    "ConnectedExtensions": [
+      {
+        "Name": "Richard Barclay",
+        "Number": "927"
+      }
+    ]
+  },
+  {
+    "ID": "cel-1614025117.138",
+    "CallDate": "2021-02-23T15:18:37",
+    "CallDateUTC": "2021-02-23T20:18:37Z",
+    "CallerID": "Richard Barclay",
+    "Source": "927",
+    "Destination": "7000",
+    "Duration": {
+      "Ticks": 11770000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 19,
+      "Seconds": 37,
+      "TotalDays": 0.013622685185185184,
+      "TotalHours": 0.32694444444444443,
+      "TotalMilliseconds": 1177000,
+      "TotalMinutes": 19.616666666666667,
+      "TotalSeconds": 1177
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614025683.142",
+    "CallDate": "2021-02-23T15:28:03",
+    "CallDateUTC": "2021-02-23T20:28:03Z",
+    "CallerID": "MONTGOMERY",
+    "Source": "7075768700",
+    "Destination": "7178395000",
+    "Duration": {
+      "Ticks": 2550000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 4,
+      "Seconds": 15,
+      "TotalDays": 0.0029513888888888888,
+      "TotalHours": 0.070833333333333331,
+      "TotalMilliseconds": 255000,
+      "TotalMinutes": 4.25,
+      "TotalSeconds": 255
+    },
+    "ConnectedExtensions": [
+      {
+        "Name": "Adam Fasnacht",
+        "Number": "923"
+      }
+    ]
+  },
+  {
+    "ID": "cel-1614025788.147",
+    "CallDate": "2021-02-23T15:29:48",
+    "CallDateUTC": "2021-02-23T20:29:48Z",
+    "CallerID": "PETER STAHL",
+    "Source": "6034913434",
+    "Destination": "7178395000",
+    "Duration": {
+      "Ticks": 5140000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 8,
+      "Seconds": 34,
+      "TotalDays": 0.0059490740740740736,
+      "TotalHours": 0.14277777777777778,
+      "TotalMilliseconds": 514000,
+      "TotalMinutes": 8.5666666666666664,
+      "TotalSeconds": 514
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614025935.148",
+    "CallDate": "2021-02-23T15:32:15",
+    "CallDateUTC": "2021-02-23T20:32:15Z",
+    "CallerID": "ROSENBAUM DAN  ",
+    "Source": "2153275628",
+    "Destination": "7178395000",
+    "Duration": {
+      "Ticks": 3550000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 5,
+      "Seconds": 55,
+      "TotalDays": 0.0041087962962962962,
+      "TotalHours": 0.098611111111111108,
+      "TotalMilliseconds": 355000,
+      "TotalMinutes": 5.916666666666667,
+      "TotalSeconds": 355
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614026524.149",
+    "CallDate": "2021-02-23T15:42:04",
+    "CallDateUTC": "2021-02-23T20:42:04Z",
+    "CallerID": "Jason Sutter",
+    "Source": "929",
+    "Destination": "923",
+    "Duration": {
+      "Ticks": 3610000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 6,
+      "Seconds": 1,
+      "TotalDays": 0.00417824074074074,
+      "TotalHours": 0.10027777777777777,
+      "TotalMilliseconds": 361000,
+      "TotalMinutes": 6.0166666666666666,
+      "TotalSeconds": 361
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614027150.152",
+    "CallDate": "2021-02-23T15:52:30",
+    "CallDateUTC": "2021-02-23T20:52:30Z",
+    "CallerID": "Jason Sutter",
+    "Source": "929",
+    "Destination": "8434807986",
+    "Duration": {
+      "Ticks": 1230000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 2,
+      "Seconds": 3,
+      "TotalDays": 0.001423611111111111,
+      "TotalHours": 0.034166666666666665,
+      "TotalMilliseconds": 123000,
+      "TotalMinutes": 2.05,
+      "TotalSeconds": 123
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614027549.154",
+    "CallDate": "2021-02-23T15:59:09",
+    "CallDateUTC": "2021-02-23T20:59:09Z",
+    "CallerID": "Richard Barclay",
+    "Source": "927",
+    "Destination": "7172834863",
+    "Duration": {
+      "Ticks": 1360000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 2,
+      "Seconds": 16,
+      "TotalDays": 0.0015740740740740741,
+      "TotalHours": 0.037777777777777778,
+      "TotalMilliseconds": 136000,
+      "TotalMinutes": 2.2666666666666666,
+      "TotalSeconds": 136
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614027611.156",
+    "CallDate": "2021-02-23T16:00:11",
+    "CallDateUTC": "2021-02-23T21:00:11Z",
+    "CallerID": "Darren Hollick",
+    "Source": "921",
+    "Destination": "924",
+    "Duration": {
+      "Ticks": 120000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 0,
+      "Seconds": 12,
+      "TotalDays": 0.00013888888888888889,
+      "TotalHours": 0.0033333333333333331,
+      "TotalMilliseconds": 12000,
+      "TotalMinutes": 0.2,
+      "TotalSeconds": 12
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614027636.160",
+    "CallDate": "2021-02-23T16:00:36",
+    "CallDateUTC": "2021-02-23T21:00:36Z",
+    "CallerID": "Richard Barclay",
+    "Source": "927",
+    "Destination": "71",
+    "Duration": {
+      "Ticks": 10000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 0,
+      "Seconds": 1,
+      "TotalDays": 0.000011574074074074073,
+      "TotalHours": 0.00027777777777777778,
+      "TotalMilliseconds": 1000,
+      "TotalMinutes": 0.016666666666666666,
+      "TotalSeconds": 1
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614027700.161",
+    "CallDate": "2021-02-23T16:01:40",
+    "CallDateUTC": "2021-02-23T21:01:40Z",
+    "CallerID": "WIRELESS CALLER",
+    "Source": "7172834863",
+    "Destination": "7178395000",
+    "Duration": {
+      "Ticks": 430000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 0,
+      "Seconds": 43,
+      "TotalDays": 0.00049768518518518521,
+      "TotalHours": 0.011944444444444443,
+      "TotalMilliseconds": 43000,
+      "TotalMinutes": 0.71666666666666667,
+      "TotalSeconds": 43
+    },
+    "ConnectedExtensions": [
+      {
+        "Name": "Richard Barclay",
+        "Number": "927"
+      }
+    ]
+  },
+  {
+    "ID": "cel-1614028038.165",
+    "CallDate": "2021-02-23T16:07:18",
+    "CallDateUTC": "2021-02-23T21:07:18Z",
+    "CallerID": "Richard Barclay",
+    "Source": "927",
+    "Destination": "*78",
+    "Duration": {
+      "Ticks": 40000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 0,
+      "Seconds": 4,
+      "TotalDays": 0.000046296296296296294,
+      "TotalHours": 0.0011111111111111111,
+      "TotalMilliseconds": 4000,
+      "TotalMinutes": 0.066666666666666666,
+      "TotalSeconds": 4
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614028342.166",
+    "CallDate": "2021-02-23T16:12:22",
+    "CallDateUTC": "2021-02-23T21:12:22Z",
+    "CallerID": "HINES WEALTH",
+    "Source": "8434807986",
+    "Destination": "7178395000",
+    "Duration": {
+      "Ticks": 5830000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 9,
+      "Seconds": 43,
+      "TotalDays": 0.0067476851851851847,
+      "TotalHours": 0.16194444444444445,
+      "TotalMilliseconds": 583000,
+      "TotalMinutes": 9.7166666666666668,
+      "TotalSeconds": 583
+    },
+    "ConnectedExtensions": [
+      {
+        "Name": "Jason Sutter",
+        "Number": "929"
+      }
+    ]
+  },
+  {
+    "ID": "cel-1614028345.167",
+    "CallDate": "2021-02-23T16:12:25",
+    "CallDateUTC": "2021-02-23T21:12:25Z",
+    "CallerID": "Richard Barclay",
+    "Source": "927",
+    "Destination": "7172834863",
+    "Duration": {
+      "Ticks": 100000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 0,
+      "Seconds": 10,
+      "TotalDays": 0.00011574074074074073,
+      "TotalHours": 0.0027777777777777775,
+      "TotalMilliseconds": 10000,
+      "TotalMinutes": 0.16666666666666666,
+      "TotalSeconds": 10
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614028382.176",
+    "CallDate": "2021-02-23T16:13:02",
+    "CallDateUTC": "2021-02-23T21:13:02Z",
+    "CallerID": "Richard Barclay",
+    "Source": "927",
+    "Destination": "7172834863",
+    "Duration": {
+      "Ticks": 460000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 0,
+      "Seconds": 46,
+      "TotalDays": 0.00053240740740740744,
+      "TotalHours": 0.012777777777777777,
+      "TotalMilliseconds": 46000,
+      "TotalMinutes": 0.76666666666666672,
+      "TotalSeconds": 46
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614028891.178",
+    "CallDate": "2021-02-23T16:21:31",
+    "CallDateUTC": "2021-02-23T21:21:31Z",
+    "CallerID": "SORENSEN SCOTT ",
+    "Source": "8315664021",
+    "Destination": "8444468857",
+    "Duration": {
+      "Ticks": 1750000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 2,
+      "Seconds": 55,
+      "TotalDays": 0.0020254629629629629,
+      "TotalHours": 0.048611111111111112,
+      "TotalMilliseconds": 175000,
+      "TotalMinutes": 2.9166666666666665,
+      "TotalSeconds": 175
+    },
+    "ConnectedExtensions": [
+      {
+        "Name": "Adam Fasnacht",
+        "Number": "923"
+      }
+    ]
+  },
+  {
+    "ID": "cel-1614029076.204",
+    "CallDate": "2021-02-23T16:24:36",
+    "CallDateUTC": "2021-02-23T21:24:36Z",
+    "CallerID": "Jason Sutter",
+    "Source": "929",
+    "Destination": "3148781804",
+    "Duration": {
+      "Ticks": 330000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 0,
+      "Seconds": 33,
+      "TotalDays": 0.00038194444444444441,
+      "TotalHours": 0.0091666666666666667,
+      "TotalMilliseconds": 33000,
+      "TotalMinutes": 0.55,
+      "TotalSeconds": 33
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614031126.206",
+    "CallDate": "2021-02-23T16:58:46",
+    "CallDateUTC": "2021-02-23T21:58:46Z",
+    "CallerID": "B3 WEALTH",
+    "Source": "4259741145",
+    "Destination": "7178395000",
+    "Duration": {
+      "Ticks": 7010000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 11,
+      "Seconds": 41,
+      "TotalDays": 0.008113425925925925,
+      "TotalHours": 0.19472222222222221,
+      "TotalMilliseconds": 701000,
+      "TotalMinutes": 11.683333333333334,
+      "TotalSeconds": 701
+    },
+    "ConnectedExtensions": [
+      {
+        "Name": "Jason Sutter",
+        "Number": "929"
+      }
+    ]
+  },
+  {
+    "ID": "cel-1614031317.230",
+    "CallDate": "2021-02-23T17:01:57",
+    "CallDateUTC": "2021-02-23T22:01:57Z",
+    "CallerID": "Richard Barclay",
+    "Source": "927",
+    "Destination": "*79",
+    "Duration": {
+      "Ticks": 40000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 0,
+      "Seconds": 4,
+      "TotalDays": 0.000046296296296296294,
+      "TotalHours": 0.0011111111111111111,
+      "TotalMilliseconds": 4000,
+      "TotalMinutes": 0.066666666666666666,
+      "TotalSeconds": 4
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614031686.231",
+    "CallDate": "2021-02-23T17:08:06",
+    "CallDateUTC": "2021-02-23T22:08:06Z",
+    "CallerID": "TALON WEALTH",
+    "Source": "4072701000",
+    "Destination": "8444468857",
+    "Duration": {
+      "Ticks": 70000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 0,
+      "Seconds": 7,
+      "TotalDays": 0.00008101851851851852,
+      "TotalHours": 0.0019444444444444444,
+      "TotalMilliseconds": 7000,
+      "TotalMinutes": 0.11666666666666667,
+      "TotalSeconds": 7
+    },
+    "ConnectedExtensions": [
+      
+    ]
+  },
+  {
+    "ID": "cel-1614035391.232",
+    "CallDate": "2021-02-23T18:09:51",
+    "CallDateUTC": "2021-02-23T23:09:51Z",
+    "CallerID": "Darren Hollick",
+    "Source": "921",
+    "Destination": "7172999696",
+    "Duration": {
+      "Ticks": 2430000000,
+      "Days": 0,
+      "Hours": 0,
+      "Milliseconds": 0,
+      "Minutes": 4,
+      "Seconds": 3,
+      "TotalDays": 0.0028125,
+      "TotalHours": 0.067499999999999991,
+      "TotalMilliseconds": 243000,
+      "TotalMinutes": 4.05,
+      "TotalSeconds": 243
+    },
+    "ConnectedExtensions": [
+      
+    ]
   }
 ]
